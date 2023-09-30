@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Build it_button-2 product-box-add-to-_ba36b3</name>
+   <name>input_Unique Asian-influenced imprint wraps_3d4071</name>
    <tag></tag>
-   <elementGuidId>4c5af508-3c31-441f-95ca-c4afcb0e3967</elementGuidId>
+   <elementGuidId>95fd6236-ab79-40f6-b4bb-eb32dcc3d5f1</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//input[@value='Add to cart'])[3]</value>
+         <value>(//input[@value='Add to cart'])[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>515517d1-8dd1-44b2-af11-e518099c69a5</webElementGuid>
+      <webElementGuid>0a6d5fcc-00db-4d46-aeb2-ca3c118e1d97</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>3ab01ad2-ecd8-4b7a-a2b7-6b772bfd35ba</webElementGuid>
+      <webElementGuid>aad0bc52-189f-4cf1-a6d6-4601f4334ed7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>value</name>
       <type>Main</type>
       <value>Add to cart</value>
-      <webElementGuid>748575f4-41a3-4ab8-9ea8-063a52fba86b</webElementGuid>
+      <webElementGuid>46926bb4-c2c0-43fb-8fda-1ec784cb7e9f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,15 +46,15 @@
       <name>class</name>
       <type>Main</type>
       <value>button-2 product-box-add-to-cart-button</value>
-      <webElementGuid>b782db1c-25a4-464b-acb1-10ded43be2ee</webElementGuid>
+      <webElementGuid>77610f4a-50e1-4802-b925-f149e72a6180</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>onclick</name>
       <type>Main</type>
-      <value>AjaxCart.addproducttocart_catalog('/addproducttocart/catalog/72/1/1    ');return false;</value>
-      <webElementGuid>dd7e3309-2ef8-4ae0-aaf3-cf67cabc3616</webElementGuid>
+      <value>AjaxCart.addproducttocart_catalog('/addproducttocart/catalog/31/1/1    ');return false;</value>
+      <webElementGuid>ddf8c8fd-c01a-4660-819a-88f1d6b8ae8c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,23 +62,23 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[@class=&quot;master-wrapper-page&quot;]/div[@class=&quot;master-wrapper-content&quot;]/div[@class=&quot;master-wrapper-main&quot;]/div[@class=&quot;center-3&quot;]/div[@class=&quot;page home-page&quot;]/div[@class=&quot;page-body&quot;]/div[@class=&quot;product-grid home-page-product-grid&quot;]/div[@class=&quot;item-box&quot;]/div[@class=&quot;product-item&quot;]/div[@class=&quot;details&quot;]/div[@class=&quot;add-info&quot;]/div[@class=&quot;buttons&quot;]/input[@class=&quot;button-2 product-box-add-to-cart-button&quot;]</value>
-      <webElementGuid>c5aeff80-5532-459f-a539-850b444e524c</webElementGuid>
+      <webElementGuid>30126ea8-dc8e-4818-b41b-126b5bcd599d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//input[@value='Add to cart'])[3]</value>
-      <webElementGuid>43a923c6-acab-4c6a-be90-aac9f353bc37</webElementGuid>
+      <value>(//input[@value='Add to cart'])[2]</value>
+      <webElementGuid>3011f033-54f5-41c7-a529-5701ba8c08e2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[4]/div/div[2]/div[3]/div[2]/input</value>
-      <webElementGuid>aa07df74-c8b8-4a03-b8d0-47ea12f80c21</webElementGuid>
+      <value>//div[3]/div/div[2]/div[3]/div[2]/input</value>
+      <webElementGuid>8ea44322-e123-42fe-b0b4-f40538398bd3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'button']</value>
-      <webElementGuid>c6bda090-d797-447e-badb-6cebcfa04036</webElementGuid>
+      <webElementGuid>c6ba4782-6516-4bf7-99be-0dbef995864b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

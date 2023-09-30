@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Click me</name>
+   <name>a_Log in</name>
    <tag></tag>
-   <elementGuidId>91e3a62d-7cd7-451a-8d83-4a1542398be6</elementGuidId>
+   <elementGuidId>d5ddb44e-fb85-4090-93e9-8f0298cd2fb2</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#promtButton</value>
+         <value>a.ico-login</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='promtButton']</value>
+         <value>//a[contains(text(),'Log in')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,111 +21,103 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>64d9b348-225a-441b-919c-39668b0afd4f</webElementGuid>
+      <value>a</value>
+      <webElementGuid>d8041375-26b5-46b5-bc34-c80e81b9269d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>id</name>
+      <name>href</name>
       <type>Main</type>
-      <value>promtButton</value>
-      <webElementGuid>0736a83b-17b1-4cb9-8d72-edae6cc753be</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>button</value>
-      <webElementGuid>63c138d6-61a3-4c1e-9c70-67fce3aba5e6</webElementGuid>
+      <value>/login</value>
+      <webElementGuid>6c7136f6-601f-462b-b917-e14c79b663c8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-primary</value>
-      <webElementGuid>84c57640-4670-41a5-9700-08e74f2f94be</webElementGuid>
+      <value>ico-login</value>
+      <webElementGuid>d8725dd9-a8a4-4644-bc52-10d1840fdb22</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Click me</value>
-      <webElementGuid>bf2eddd3-2f1d-4a53-934f-0a06ee50f4bd</webElementGuid>
+      <value>Log in</value>
+      <webElementGuid>275eb99a-cd77-4005-a92a-691294b7fc02</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;promtButton&quot;)</value>
-      <webElementGuid>7ecfe6f4-a441-47ec-b16b-fabd157301dd</webElementGuid>
+      <value>/html[1]/body[1]/div[@class=&quot;master-wrapper-page&quot;]/div[@class=&quot;master-wrapper-content&quot;]/div[@class=&quot;header&quot;]/div[@class=&quot;header-links-wrapper&quot;]/div[@class=&quot;header-links&quot;]/ul[1]/li[2]/a[@class=&quot;ico-login&quot;]</value>
+      <webElementGuid>c5932922-4600-43da-b24e-b31c38c79169</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
+      <name>xpath:link</name>
       <type>Main</type>
-      <value>//button[@id='promtButton']</value>
-      <webElementGuid>f2cdd946-55ae-4202-992a-dde7bc958cd4</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//div[@id='javascriptAlertsWrapper']/div[4]/div[2]/button</value>
-      <webElementGuid>362df09e-ba89-4d1c-bfb2-49059566b03a</webElementGuid>
+      <value>//a[contains(text(),'Log in')]</value>
+      <webElementGuid>7033077c-6aba-43cb-baf7-a26ffcfaa602</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='On button click, prompt box will appear'])[1]/following::button[1]</value>
-      <webElementGuid>93e4e0ba-4c34-4064-9450-125db2f5e76e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Register'])[1]/following::a[1]</value>
+      <webElementGuid>95d1e511-aa20-43f9-a613-20524e14c920</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Click me'])[3]/following::button[1]</value>
-      <webElementGuid>46a7b0a1-cae5-4d00-ab87-9740c7eb326a</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shopping cart'])[1]/preceding::a[1]</value>
+      <webElementGuid>278ae2db-d0c5-4767-a4a5-e946b26a56f3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='© 2013-2020 TOOLSQA.COM | ALL RIGHTS RESERVED.'])[1]/preceding::button[1]</value>
-      <webElementGuid>4072f19d-c1bd-4154-8ec3-8c3714c1524e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(0)'])[1]/preceding::a[1]</value>
+      <webElementGuid>191a8dbd-8b66-4103-bd6a-0d38b8969067</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'promtButton', '&quot;', ')')])[1]/preceding::button[1]</value>
-      <webElementGuid>f3346031-4bf7-4740-950d-645a4de32493</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Log in']/parent::*</value>
+      <webElementGuid>5cc40036-0803-446f-986b-42cefd0e3081</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/login')]</value>
+      <webElementGuid>8e1f1197-8813-4ab3-8408-9d8609e55371</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[4]/div[2]/button</value>
-      <webElementGuid>cb8e817f-3d04-4e9d-ad0b-005b4591b66e</webElementGuid>
+      <value>//li[2]/a</value>
+      <webElementGuid>c9bc642d-5c3d-4eb9-9734-5195dd889826</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@id = 'promtButton' and @type = 'button' and (text() = 'Click me' or . = 'Click me')]</value>
-      <webElementGuid>913f5a74-bce7-45a6-a204-1472cfdf3f08</webElementGuid>
+      <value>//a[@href = '/login' and (text() = 'Log in' or . = 'Log in')]</value>
+      <webElementGuid>a40d360a-d142-4547-ac52-be997c8de4fc</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

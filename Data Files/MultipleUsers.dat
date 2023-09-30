@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DataFileEntity>
    <description></description>
-   <name>MultipleUsersTestData</name>
+   <name>MultipleUsers</name>
    <tag></tag>
    <connectionProperties/>
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
-   <dataFileGUID>e7aa7690-a7f2-46a7-ac1b-3c060e4faad9</dataFileGUID>
+   <dataFileGUID>f5fdbd01-f32e-4a5b-8a8a-d3796bbc1131</dataFileGUID>
    <dataSourceUrl>C:\Users\Dell Latitude 7490\Desktop\Multiple users.xlsx</dataSourceUrl>
    <driver>ExcelFile</driver>
    <isInternalPath>false</isInternalPath>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>SetAlert</name>
+   <name>Multiple Users</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>7e7e7a87-b3b0-4497-ac46-9dc88665bce9</testCaseGuid>
+   <testCaseGuid>fb3366d6-7873-41dc-9568-70ddf1306615</testCaseGuid>
 </TestCaseEntity>

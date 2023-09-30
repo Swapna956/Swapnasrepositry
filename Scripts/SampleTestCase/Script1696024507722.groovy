@@ -17,17 +17,3 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('https://demowebshop.tricentis.com/')
-
-WebUI.click(findTestObject('null'))
-
-WebUI.sendKeys(findTestObject('null'), username)
-
-WebUI.sendKeys(findTestObject('null'), password)
-
-WebUI.click(findTestObject('null'))
-
-WebUI.click(findTestObject('null'))
-
-WebUI.closeBrowser()
-

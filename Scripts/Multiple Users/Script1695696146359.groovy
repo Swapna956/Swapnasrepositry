@@ -17,19 +17,17 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+WebUI.openBrowser('https://demowebshop.tricentis.com/')
 
-WebUI.navigateToUrl('https://demoqa.com/alerts')
+WebUI.click(findTestObject('Object Repository/Multiple Users/Page_Demo Web Shop/a_Log in'))
 
-WebUI.maximizeWindow()
+WebUI.setText(findTestObject('Object Repository/Multiple Users/Page_Demo Web Shop. Login/input_Email_Email'), username)
 
-WebUI.click(findTestObject('Object Repository/SetAlert/Page_DEMOQA/button_Click me'))
+WebUI.setEncryptedText(findTestObject('Multiple Users/Page_Demo Web Shop. Login/input_Password_Password'), password)
 
-WebUI.setAlertText('swapna')
+WebUI.click(findTestObject('Object Repository/Multiple Users/Page_Demo Web Shop. Login/input_Forgot password_button-1 login-button'))
 
-WebUI.delay(5)
-
-WebUI.acceptAlert()
+WebUI.click(findTestObject('Object Repository/Multiple Users/Page_Demo Web Shop. Account/a_Log out'))
 
 WebUI.closeBrowser()
 
