@@ -3,7 +3,7 @@
    <description></description>
    <name>input_Remove_removefromcart</name>
    <tag></tag>
-   <elementGuidId>9a90bfcf-ab2b-457f-add8-913c9e4698cc</elementGuidId>
+   <elementGuidId>9d6f0371-96cf-471b-b16c-6da80910d6fe</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>995a6d73-d386-4c71-9894-d7c1c2bc8c90</webElementGuid>
+      <webElementGuid>45a94db4-d437-4957-8282-fd36e3745b9f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>checkbox</value>
-      <webElementGuid>5419800d-e99e-49ab-a4f1-6ae6a5df9151</webElementGuid>
+      <webElementGuid>ed07063b-fd09-443e-979f-e6854c88e66a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,15 +38,15 @@
       <name>name</name>
       <type>Main</type>
       <value>removefromcart</value>
-      <webElementGuid>73505312-3fa4-4931-aa31-d872393ed2ae</webElementGuid>
+      <webElementGuid>14ea2ae3-545b-425e-b6a7-1a38d717fa02</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>value</name>
       <type>Main</type>
-      <value>3563108</value>
-      <webElementGuid>2ca8a3ec-aefa-4a5e-95e4-6de1ef15fe49</webElementGuid>
+      <value>3563128</value>
+      <webElementGuid>c0232ce6-2059-40f9-9a74-9855c1f95aca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[@class=&quot;master-wrapper-page&quot;]/div[@class=&quot;master-wrapper-content&quot;]/div[@class=&quot;master-wrapper-main&quot;]/div[@class=&quot;center-1&quot;]/div[@class=&quot;page shopping-cart-page&quot;]/div[@class=&quot;page-body&quot;]/div[@class=&quot;order-summary-content&quot;]/form[1]/table[@class=&quot;cart&quot;]/tbody[1]/tr[@class=&quot;cart-item-row&quot;]/td[@class=&quot;remove-from-cart&quot;]/input[1]</value>
-      <webElementGuid>9c624fa1-2d17-4929-a7c8-0755fb95c2c3</webElementGuid>
+      <webElementGuid>92e9fcae-740e-468a-8920-cd07d252abd6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='removefromcart']</value>
-      <webElementGuid>d870e0de-b4ff-4d15-acd2-64fc2a9d22ed</webElementGuid>
+      <webElementGuid>692d0298-e60c-4fb9-a15a-311fda3c7edd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td/input</value>
-      <webElementGuid>ac37fd7c-d46d-4728-9d7f-f7905a3f6a35</webElementGuid>
+      <webElementGuid>33b0be6b-770c-460d-ae61-0fd9f044c85d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +78,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'checkbox' and @name = 'removefromcart']</value>
-      <webElementGuid>4f3ee7d0-4ad3-4943-941e-dfbd6f2b0966</webElementGuid>
+      <webElementGuid>b417c819-7ca0-416c-81d4-41683c12a739</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

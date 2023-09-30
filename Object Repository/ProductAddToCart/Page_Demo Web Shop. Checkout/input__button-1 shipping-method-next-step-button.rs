@@ -3,7 +3,7 @@
    <description></description>
    <name>input__button-1 shipping-method-next-step-button</name>
    <tag></tag>
-   <elementGuidId>bb8712fe-2f68-46b9-b286-b8fb1320face</elementGuidId>
+   <elementGuidId>fdf46e0c-17da-430a-9a39-f29f5981bbf2</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>2ffb7252-fbb1-4ac5-ae83-236dca28d41a</webElementGuid>
+      <webElementGuid>e0454a01-4a0b-491d-b3cd-49e94b08eca7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>43bb6aa9-8838-461e-8b4c-af0ccd5a08a8</webElementGuid>
+      <webElementGuid>031f46ce-ff9b-43ba-b9c2-272666da996b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>button-1 shipping-method-next-step-button</value>
-      <webElementGuid>e702b409-9845-44cf-a1c9-37ed606c8c53</webElementGuid>
+      <webElementGuid>886d28a9-7845-47d4-94a8-cc8fd0ffd8f2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>ShippingMethod.save()</value>
-      <webElementGuid>372a2d2a-6e5f-4def-836c-f5ebf33ed83d</webElementGuid>
+      <webElementGuid>7ee4bd19-94c3-47c3-a619-aa06fca7f962</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>value</name>
       <type>Main</type>
       <value>Continue</value>
-      <webElementGuid>ce12c07b-be13-44e3-bf19-4793eb7d27e7</webElementGuid>
+      <webElementGuid>24a73cb4-12bf-4738-a00a-e0ee8ced6882</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;shipping-method-buttons-container&quot;)/input[@class=&quot;button-1 shipping-method-next-step-button&quot;]</value>
-      <webElementGuid>e591b8e2-93d6-417f-a5d6-5cbdae5c7af6</webElementGuid>
+      <webElementGuid>f6a12d9e-d605-4144-b91a-de9ae95177fe</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//input[@value='Continue'])[3]</value>
-      <webElementGuid>345a3bcc-beba-4198-8904-a4714da0de7a</webElementGuid>
+      <webElementGuid>4e7ec7ed-401c-423e-b2ae-5bff9d0c5ffc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='shipping-method-buttons-container']/input</value>
-      <webElementGuid>fdc4dab4-64d4-4355-8e94-29d07abc037a</webElementGuid>
+      <webElementGuid>26e92b77-1a02-4596-8375-b37283f3d501</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/div[2]/input</value>
-      <webElementGuid>60c60d95-57be-4193-8ee3-8323abfae7f4</webElementGuid>
+      <webElementGuid>213908a1-4edb-481e-af30-f9e1bd51fbcf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'button']</value>
-      <webElementGuid>d53f6623-b19b-48e4-8c14-2aaa3e05ae1a</webElementGuid>
+      <webElementGuid>27f7d2da-e5e0-4d77-98d1-d52d59f93f71</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

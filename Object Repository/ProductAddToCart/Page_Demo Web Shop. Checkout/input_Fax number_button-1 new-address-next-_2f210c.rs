@@ -3,7 +3,7 @@
    <description></description>
    <name>input_Fax number_button-1 new-address-next-_2f210c</name>
    <tag></tag>
-   <elementGuidId>673cbcf9-750f-4ade-9628-057c6686a51f</elementGuidId>
+   <elementGuidId>a183b8d1-aebb-46f4-82cc-04f417806e64</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>e7ff2b2a-a106-4edd-9d9a-36439b4ee0d1</webElementGuid>
+      <webElementGuid>4871baac-5b9e-477b-82c7-3b17c888962f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>50ac2179-3a9d-4bca-a68e-dbdbdfcb380c</webElementGuid>
+      <webElementGuid>0c174a4e-4ec8-49fb-a924-1c9501c68048</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Continue</value>
-      <webElementGuid>4c516b4c-df4d-44fc-98d9-ce90c14f453d</webElementGuid>
+      <webElementGuid>5a8bb0ac-f2d6-44b3-8661-e2e6d4a9596b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>button-1 new-address-next-step-button</value>
-      <webElementGuid>d2018a3e-a553-4518-9b9a-2f45a7cc3c2b</webElementGuid>
+      <webElementGuid>4172f823-d50a-473c-a876-3d64fc6ff03b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>Billing.save()</value>
-      <webElementGuid>877c50e8-5824-48a8-90f1-ddb48074a9d6</webElementGuid>
+      <webElementGuid>5f714a22-e87c-4295-a90f-a0dcb89898cf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>value</name>
       <type>Main</type>
       <value>Continue</value>
-      <webElementGuid>4382ba79-7f47-4f8f-97f7-4c935f31abb0</webElementGuid>
+      <webElementGuid>3a00323e-b68c-4edc-a4c4-42c9d849c4ba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;billing-buttons-container&quot;)/input[@class=&quot;button-1 new-address-next-step-button&quot;]</value>
-      <webElementGuid>9242cb87-360e-4666-a779-b0cf4b9ee56a</webElementGuid>
+      <webElementGuid>3c684438-6cbe-4c7e-9219-cd411a1b3f5b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@value='Continue']</value>
-      <webElementGuid>58998c8f-98b7-4da5-969b-acdf0021507e</webElementGuid>
+      <webElementGuid>9e12357f-c77a-493b-9a94-92d312a9e578</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='billing-buttons-container']/input</value>
-      <webElementGuid>28ba2275-375d-4f3f-91b6-98a174b9073e</webElementGuid>
+      <webElementGuid>ec0c4451-3117-452d-b60b-e925a77c47c9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/input</value>
-      <webElementGuid>378da516-c767-49f6-a85d-f6ab87e6d32f</webElementGuid>
+      <webElementGuid>2359e2f0-dae3-4146-bbec-7875e275d85e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'button' and @title = 'Continue']</value>
-      <webElementGuid>3e503ba7-612c-4ade-9394-53eaa82f8d42</webElementGuid>
+      <webElementGuid>8c8a73f2-9ee7-4077-bdc2-9288fbfce9c6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -3,7 +3,7 @@
    <description></description>
    <name>input_I agree with the terms of service and_f529a0</name>
    <tag></tag>
-   <elementGuidId>7bd1c2ab-6ed1-44e0-a976-352a7c1ce9a2</elementGuidId>
+   <elementGuidId>030b7485-63eb-4007-a954-b0c180cc35b8</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>c17de3c1-35ed-4fb9-9797-38c55c0835a8</webElementGuid>
+      <webElementGuid>42b992bc-6ae1-484b-8a57-0534a5516dbd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>termsofservice</value>
-      <webElementGuid>a2f2b241-518c-4941-afb8-731e51a4b09c</webElementGuid>
+      <webElementGuid>31673baa-4ada-4148-9e7a-4444be885779</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>checkbox</value>
-      <webElementGuid>6484fa47-09af-4aef-a055-13c21a8f9daf</webElementGuid>
+      <webElementGuid>5e0077c6-6ec8-4a1a-b0b1-3aa2f255da5d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>name</name>
       <type>Main</type>
       <value>termsofservice</value>
-      <webElementGuid>1a79ca17-3160-41cf-9305-dca59e00d96f</webElementGuid>
+      <webElementGuid>5e21c521-4ea4-4fae-a1e6-e1f2e1f4cba7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;termsofservice&quot;)</value>
-      <webElementGuid>71068627-cb1e-4d63-92f7-6672ce2f1ebf</webElementGuid>
+      <webElementGuid>107a9718-9b61-46d1-bdb3-0ec56939eacc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='termsofservice']</value>
-      <webElementGuid>aba792cc-611a-476e-8490-770b37512de8</webElementGuid>
+      <webElementGuid>360babe1-cfdf-4cd5-8586-ec041a55c5d8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[3]/input</value>
-      <webElementGuid>d02afd36-0f64-4623-a312-36ca31bd6063</webElementGuid>
+      <webElementGuid>58fe9779-49b4-4cac-b093-7e50a330d495</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +78,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'termsofservice' and @type = 'checkbox' and @name = 'termsofservice']</value>
-      <webElementGuid>7af62720-180d-4873-a33b-ee27276f6223</webElementGuid>
+      <webElementGuid>0b107c2c-a1e5-4ebd-aee6-10d05935e2d0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
